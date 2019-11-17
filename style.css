@@ -23,8 +23,8 @@ section h1, footer h1, nav a
 /* Header */
 
 header
+
 {
-    background: url('images/separateur.png') repeat-x bottom;
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
